@@ -57,9 +57,7 @@ ClientHelloRSA ClientHelloDHE EmptyCertificate ClientKeyExchange ChangeCipherSpe
 
 ## Result
 
-Learner will create a folder called "ouput_server" and automatically save all results to it. The version of our tested OpenSSL is 1.0.1t. Learner generated two hypothesis of the protocol state machine. 
-
-<p align="center"><img src="hypothesis_1.dot.pdf" height="300" width="700">
-<p align="center"><img src="hypothesis_2.dot.pdf" height="300" width="700">
+Learner will create a folder called "ouput_server" and automatically save all results to it. The version of our tested OpenSSL is 1.0.1t. Learner generated two hypothesis of the protocol state machine.
+The result is shown in "hypothesis_1.dot.pdf" and "hypothesis_2.dot.pdf" in this repository.
 
 
